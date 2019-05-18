@@ -1,5 +1,8 @@
 # HandDrawing
 Some hand draw practice
+![image](https://github.com/haxflying/HandDrawing/blob/master/2b_1.jpg)
+![image](https://github.com/haxflying/HandDrawing/blob/master/41_mine.jpg)
+![image](https://github.com/haxflying/HandDrawing/blob/master/46_mine.jpg)
 ![image](https://github.com/haxflying/HandDrawing/blob/master/1.jpg)
 ![image](https://github.com/haxflying/HandDrawing/blob/master/2.jpg)
 ![image](https://github.com/haxflying/HandDrawing/blob/master/3.jpg)
